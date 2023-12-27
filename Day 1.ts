@@ -17,6 +17,6 @@ function checkAge ( birthYear:number ){
     }
 
 }
-registerUser ("Nandu", 2004)
+registerUser ("Aishu", 2004)
 
 export { }
